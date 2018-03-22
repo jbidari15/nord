@@ -1,0 +1,86 @@
+
+
+p {
+    width: 912px;
+    
+    
+    }
+    
+    .Title {
+        color:  #909090;
+        font-size: 24px;
+        padding-bottom: 32px;
+    }
+    
+    .form {
+    
+        padding-top: 16px;
+    
+        background-color: white;
+    
+    }
+    
+    input[type="text"] {
+      width:99%;
+       height: 40px;
+    font-size: 16px;
+    background-color: #f0f0f5;
+    border: 1px solid #999
+    }
+    
+    
+    
+    
+    input[type="email"] {
+    
+      width: 260px;
+      height: 40px;
+    font-size: 16px;
+    background-color: #f0f0f5;
+    border: 1px solid #999	
+    
+    }
+    
+    input[type="tel"] {
+     width: 99%;
+      height: 40px;
+    font-size: 16px;
+    background-color: #f0f0f5;
+    border: 1px solid #999	
+    }
+    
+    .button {
+        border: none;
+        background-color: #f0f0f5;
+        font-size: 16px;
+        color: #909090;
+        font-weight: 600;
+        height: 40px;
+        padding-right: 24px;
+         padding-left: 24px;
+         
+    
+    
+    }
+    
+    .errormsg {
+        font-size: 12px;
+        color: red;
+        padding-left: 10px;
+    }
+    
+    
+    .FormTable {
+    
+        width: 912px;
+    
+    }
+    
+    .successmessage {
+    
+        color: green;
+    }
+    
+    .errorcell {
+        height: 8px;
+    }

@@ -1,0 +1,24 @@
+
+.Container {
+  margin: 0px auto 0px auto;
+  width: 976px;
+
+}
+
+.Formandtable {
+  padding: 32px;
+  width: 912px;
+ background-color: 	#f0f0f5;
+}
+
+.Heading {
+  background-color: #a5a5c0;
+  padding: 32px;
+  color: white;
+  font-size: 26px;
+}
+
+.logo {
+    height: 32px;
+    padding-right: 16px;
+  }
